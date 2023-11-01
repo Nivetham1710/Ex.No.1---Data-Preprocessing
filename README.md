@@ -33,8 +33,8 @@ Splitting the data into test and train
 
 ## PROGRAM:
 ~~~
-Register Number: 212221230058
-Name: Meiyarasi.V
+Register Number: 212221240034
+Name: Nivetha M
 import pandas as pd
 df=pd.read_csv("/content/Churn_Modelling.csv")
 df.head()
@@ -62,17 +62,17 @@ print(df1)
 ~~~
 ## OUTPUT:
 
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/756c03e3-ceda-4e87-ade6-c54c3b674519)
+![image](https://github.com/Nivetham1710/Ex.No.1---Data-Preprocessing/assets/94155183/6f4ba260-b277-4a4b-87f3-b700fd4da050)
 
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/4077915e-0fcc-4af0-98b7-337ec5a062bf)
+![image](https://github.com/Nivetham1710/Ex.No.1---Data-Preprocessing/assets/94155183/009f3a03-d3b7-41d4-a51b-a8f10422df0d)
 
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/c441d1e3-83a4-4968-a8d2-8376cdbeb1eb)
+![image](https://github.com/Nivetham1710/Ex.No.1---Data-Preprocessing/assets/94155183/2fb55a1a-abbe-4e2f-9023-c02f2c6ea344)
 
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/fffb8082-2185-4895-98db-1b6642689929)
+![image](https://github.com/Nivetham1710/Ex.No.1---Data-Preprocessing/assets/94155183/b3353a89-5ae2-4a35-a6b6-ec65f8c7da19)
 
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/5e7dea59-e4f7-40c5-84fd-b30f34125e2c)
+![image](https://github.com/Nivetham1710/Ex.No.1---Data-Preprocessing/assets/94155183/dcf27827-b40b-44ea-a459-655075eb1433)
 
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/1cfca45b-e3cd-4f66-9c10-dc1728d73199)
+![image](https://github.com/Nivetham1710/Ex.No.1---Data-Preprocessing/assets/94155183/ba05f1fc-d18a-4d7a-ad1c-c845550ffdc3)
 
 ## RESULT
 Hence the data preprocessing is done using the above code and data has been splitted into trainning and testing data for getting a better model.
